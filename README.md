@@ -54,7 +54,7 @@
 
 ## Usage
 
-1. **Compile the Code**: Use MPLAB X IDE to compile the provided C code.
+1. **Compile the Code**: Use the CCS C compiler to compile the provided C code.
 2. **Upload to Microcontroller**: Flash the compiled code to the PIC16F877A microcontroller using a compatible programmer.
 3. **Test and Operate**: Connect all hardware components as described in the Hardware Setup section and power up the system. Use the buttons to control the car's movement and monitor the LCD and buzzer for feedback.
 
