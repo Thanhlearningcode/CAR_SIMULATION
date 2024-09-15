@@ -65,8 +65,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - [Microchip PIC16F877A Datasheet](https://www.microchip.com/wwwproducts/en/PIC16F877A)
-- [MPLAB X IDE](https://www.microchip.com/mplab/mplab-x-ide)
-- [MPLAB XC8 Compiler](https://www.microchip.com/mplab/compilers)
+- [Microchip PIC16F877A Datasheet](https://www.microchip.com/wwwproducts/en/PIC16F877A)
+- [CCS C Compiler Documentation](https://www.ccsinfo.com/)
 
 ---
 
